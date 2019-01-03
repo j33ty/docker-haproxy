@@ -1,2 +1,3 @@
-# docker-haproxy
-Dockerized version of HAProxy with SLZ and 51Degrees
+# Docker HAProxy
+
+Dockerized version of HAProxy with SLZ and 51Degrees.
